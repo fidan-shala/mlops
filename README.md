@@ -2,14 +2,14 @@
 
 Prerequisites: Install [Docker Desktop](https://www.docker.com/products/docker-desktop/) locally 
  
-1. Clone repository:
+1. Clone repository:\
    `git clone https://github.com/fidan-shala/mlops/tree/main`
 
-2. Navigate to the repository:
+2. Navigate to the repository:\
    `cd path/to/repository`
 
-3. Build the Docker image:
+3. Build the Docker image:\
    `docker build -t image-name`
 
-4. Run the docker container:
+4. Run the docker container:\
    `docker run image-name `
