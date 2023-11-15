@@ -3,7 +3,7 @@
 Prerequisites: Install [Docker Desktop](https://www.docker.com/products/docker-desktop/) locally 
  
 1. Clone repository:
-   https://github.com/fidan-shala/mlops/tree/main
+   `git clone https://github.com/fidan-shala/mlops/tree/main`
 
 2. Navigate to the repository:
    `cd path/to/repository`
